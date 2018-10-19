@@ -1,6 +1,7 @@
 # Site settings
 title: PHPDF - Grupo de desenvolvedores PHP do Distrito Federal
-description: O PHPDF tem como objetivo fomentar a utilizaÁ„o da linguagem PHP. Sua miss„o È incentivar os estudos e compartilhar conhecimentos sobre esta linguagem.
+description: O PHPDF tem como objetivo fomentar a utiliza√ß√£o da linguagem PHP. Sua miss√£o √© incentivar os estudos e compartilhar conhecimentos sobre esta linguagem.
+subtitle: Grupo de desenvolvedores PHP do Distrito Federal
 owner: PHPDF
 url: "https://phpdf.org.br"
 image: "/images/logo-azul-branco-300x300.png"
